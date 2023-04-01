@@ -1,0 +1,28 @@
+.container{
+	margin-bottom: 50px;
+}
+.buy-now-btn{
+	background-image: linear-gradient(to bottom, #000000 10%, #003049 100%);
+	color: #fff;
+	border: none;
+	border-radius: 12px;
+	padding: 9px 25px;
+	cursor: pointer;
+}
+.card{
+	border: none;
+	box-shadow: 5px 5px 20px lightgray;
+}
+.categories{
+	height: 500px;
+}
+.images{
+	width: 100px;
+	height: 100px;
+}
+.whole-card{
+	height: 250px;
+}
+.category-row{
+	margin-top: 60px;
+}
